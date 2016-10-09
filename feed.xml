@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Average At Best</title>
+    <description>Swapnull&#39;s site</description>
+    <link>http://swapnull.co.uk/</link>
+    <atom:link href="http://swapnull.co.uk/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 09 Oct 2016 19:57:51 +0100</pubDate>
+    <lastBuildDate>Sun, 09 Oct 2016 19:57:51 +0100</lastBuildDate>
+    <generator>Jekyll v3.1.1</generator>
+    
+      <item>
+        <title>The unused workforce</title>
+        <description>&lt;p&gt;Student jobs have been around for as long as there has been university students, the usual reason been students wanting to gain a little extra beer money. I have personally held a variety of these jobs to try to pay for the expensive student lifestyle, yet not a single one of them has helped me with my career.&lt;/p&gt;
+
+&lt;p&gt;Okay, maybe the social skills from retail and the patience from swim teaching has helped me become the person I am, but I currently have almost zero experience in the field I want to spend the next 60 years. Software development is not an easy task by any means, but there are plenty of tasks that software companies could be paying students to do. These include:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Testing&lt;/li&gt;
+  &lt;li&gt;Documentation&lt;/li&gt;
+  &lt;li&gt;Support&lt;/li&gt;
+  &lt;li&gt;Minor code changes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These are tasks that very few software engineers enjoy doing, very few employers enjoy paying software engineers to do but many students could learn a heap by doing.&lt;/p&gt;
+
+&lt;p&gt;Open source projects have surged forwards in this area, allowing beginners to start looking at source code, fix bugs and write documentation. This is an amazing thing, but lacks any form of real payment and therefore the students willing to do it. &lt;/p&gt;
+
+&lt;p&gt;All it would take is a few software companies to pay £6.80 an hour and they get some cheap labour and graduates with a much greater knowledge of real software development. &lt;/p&gt;
+
+&lt;p&gt;Alas, I guess we are stuck with leisure and retail jobs.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 09 Oct 2016 19:46:00 +0100</pubDate>
+        <link>http://swapnull.co.uk/blog/2016/the-unused-workforce/</link>
+        <guid isPermaLink="true">http://swapnull.co.uk/blog/2016/the-unused-workforce/</guid>
+        
+        
+        <category>j</category>
+        
+      </item>
+    
+  </channel>
+</rss>
