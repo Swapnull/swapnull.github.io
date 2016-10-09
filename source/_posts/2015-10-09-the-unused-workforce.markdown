@@ -9,10 +9,11 @@ categories: j
 Student jobs have been around for as long as there has been university students, the usual reason been students wanting to gain a little extra beer money. I have personally held a variety of these jobs to try to pay for the expensive student lifestyle, yet not a single one of them has helped me with my career.
 
 Okay, maybe the social skills from retail and the patience from swim teaching has helped me become the person I am, but I currently have almost zero experience in the field I want to spend the next 60 years. Software development is not an easy task by any means, but there are plenty of tasks that software companies could be paying students to do. These include:
+
 - Testing
 - Documentation
 - Support
-- Minor code changes
+- Minor code changes  
 
 These are tasks that very few software engineers enjoy doing, very few employers enjoy paying software engineers to do but many students could learn a heap by doing.
 
