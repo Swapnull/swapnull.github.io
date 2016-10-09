@@ -15,40 +15,39 @@ sass:
   style: compressed # expanded
 
 # SEO settings
-title: end2end
-description: "A free Jekyll theme for download"
-keywords: "Jekyll, theme, free, download, SEO, blog, web"
-url: http://nandomoreira.me
-baseurl: "/end2end"
+title: Average At Best
+description: "Swapnull's site"
+keywords: "Jekyll, blog, site, cs, se, computer, science, software, engineering, node"
+url: http://swapnull.co.uk
+baseurl: ""
 # baseurl: ""
 
 # google_analytics: UA-52446115-1
 repo: http://github.com/nandomoreirame/end2end
-disqus_shortname: "nandothemes"
-disqus_site_shortname: "nandothemes"
+disqus_shortname: "swapnull"
+disqus_site_shortname: "swapnull"
 
 # Author settings
 author:
-  name      : Fernando Moreira
-  job       : Frontend Engineer
-  bio       : "Enthusiast performance, responsive design and usability, always looking for the best project and good coffee."
-  thumb     : /images/author.jpg
-  email     : nandomoreira.me@gmail.com
-  url       : http://nandomoreira.me
-  github    : http://github.com/nandomoreirame
-  twitter   : http://twitter.com/nandomoreirame
-  facebook  : http://facebook.com/fernando.dev
-  linkedin  : http://linkedin.com/in/nandomoreirame
+  thumb     : images/author.jpg
+  email     : martyn.e.rushton@gmail.com
+  url       : http://swapnull.co.uk
+  github    : http://github.com/swapnull
+  twitter   : http://twitter.com/swapnull
+  facebook  : http://facebook.com/martyn.rushton.54
+  linkedin  : http://linkedin.com/in/martynrushton
 
 # navbar pages
 navbar:
-  - slug: about
-    title: About
   # - slug: resume
   #   title: Resume
   # - slug: skills
   #   title: Skills
+  - slug: 
+    title: About
   - slug: blog
     title: Blog
+  - slug: projects
+    title: Projects
 
 exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]

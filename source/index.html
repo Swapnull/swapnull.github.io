@@ -6,13 +6,15 @@ layout: home
 
   <div class="hero-inner container">
 
-    <img src="{{ site.author.thumb | prepend: site.baseurl }}" alt="author thumb" class="dot">
-    <h1>Hello!..</h1>
-    <h3>I'm <strong itemprop="name">{{ site.author.name }}</strong>, a <em itemprop="jobTitle">{{ site.author.job }}</em>.</h3>
-    <h3>{{ site.author.bio }}</h3>
-
-    <a href="{{ '/about' | prepend: site.baseurl }}" class="btn btn-ghost">about</a>
-    <a href="{{ '/blog' | prepend: site.baseurl }}" class="btn btn-ghost">blog</a>
+    <img src="{{ site.author.thumb | prepend: site.baseurl }}" alt="author thumb" class="dot"> 
+    
+    <h1>Hi, I'm Martyn Rushton</h1>
+    <h2>MSc Computer Science (Artificial Intelligence) at UoN.</h2>
+    <p>I make open source things with Python, JavaScript and Robotics. My aim is to achieve a PhD in Artificial Intelligence, specifically machine learning
+    and computer vision.</p>
+    <p>When not coding, I am probably either training for triathlon or half way up a bouldering problem. </p>
+    <a href="{{ '/blog' | prepend: site.baseurl }}" class="btn btn-ghost">Blog</a>
+    <a href="{{ '/projects' | prepend: site.baseurl }}" class="btn btn-ghost">Projects</a>
 
     {% include social.html %}
 
