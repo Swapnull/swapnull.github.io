@@ -50,4 +50,10 @@ navbar:
   - slug: projects
     title: Projects
 
+projects:
+  - title: 3elmdesign.co.uk
+    url  : 3elmdesign.co.uk
+    description: "A bespoke furniture website"
+    image: ../images/projects/3elm.png
+
 exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
