@@ -53,7 +53,9 @@ navbar:
 projects:
   - title: 3elmdesign.co.uk
     url  : 3elmdesign.co.uk
-    description: "A bespoke furniture website"
+    tagline: "A bespoke furniture website"
+    description: "This site was built using ProcessWire CMS and UiKit front-end framework. I undertook this as subcontracted work from
+      @steelstudiosuk where they provided the design and hosting solution."
     image: ../images/projects/3elm.png
 
 exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
