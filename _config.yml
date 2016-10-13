@@ -44,6 +44,8 @@ navbar:
   # - slug: skills
   #   title: Skills
   - slug: 
+    title: Home
+  - slug: about
     title: About
   - slug: blog
     title: Blog

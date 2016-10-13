@@ -11,7 +11,16 @@
     <nav class="navbar sliding-panel-content">
       <ul>
         {% for item in site.navbar %}
-          <li><a href="{{ '/' | prepend: site.baseurl }}{{ item.slug }}" title="{{ item.title }}">{{ item.title }}</a></li>
+          {% assign pu = page.url | remove: "/" %}
+          {% assign pi = item.title | downcase %}
+          {% if pu == pi %}
+            <li class="active">
+          {% else %}
+            <li>
+          {% endif %}
+
+          <a href="{{ '/' | prepend: site.baseurl }}{{ item.slug }}" title="{{ item.title | downcase | append: '/'}}">{{ item.title }}</a></li>
+
         {% endfor %}
       </ul>
     </nav>
