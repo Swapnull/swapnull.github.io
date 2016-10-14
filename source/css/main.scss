@@ -5,6 +5,9 @@
 @charset "utf-8";
 @import "main";
 
+.container {
+  max-width:1000px!important;
+}
 .post ul {
   margin-bottom:8px;
 }
