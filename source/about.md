@@ -9,7 +9,7 @@ permalink: /about/
 ## Now
   
 - Studying MSc Computer Science (Artificial Intelligence) at University of Nottingham
-- Attempting to streamline my life by using APIs to give me the useful data 
+- Trying to contribute to some open source projects 
 - Experimenting with many languages and frameworks
 - Training hard to get fit for the 2017 Triathlon Season 
 
